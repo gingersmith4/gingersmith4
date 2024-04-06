@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 😄 Pronouns: she/her
+- 🔭 I’m currently working on my Bachelor's in Computer Science from UCSD. I'm also minoring in French Literature!
+- 🌱 I’m currently learning Software Engineering and Principles Programming Languages.
+- 💬 Ask me about Women In Computing!
+- ⚡ Fun fact: I studied abroad in France!
 
 <!--
 **gingersmith4/gingersmith4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
